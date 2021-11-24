@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "DevOps is great"
+echo "study it with your family for great job security"
+whoami
+pwd
+echo "today's date is `date`"
+echo "Have a great day Josh"
